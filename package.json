@@ -1,0 +1,21 @@
+{
+  "name": "rss_crawler",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">= 0.10.3",
+    "npm": "1.2.x"
+  },
+  "dependencies": {
+    "coffee-script": ">= 1.6.2",
+    "cheerio": ">= 0.12.0",
+    "imageinfo": ">= 1.0.4",
+    "request": ">= 2.21.0",
+    "nomnom": ">= 1.6.1",
+    "opml-generator": ">= 1.0.2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
