@@ -1,2 +1,3 @@
-./inputfiles/
-./results/
+./inputfiles/*
+./results/*
+.gitignore
